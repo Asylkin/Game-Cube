@@ -1,5 +1,5 @@
 # Game-Cube
-Planning and organizing game evenings
+Planning and organizing board game evenings
 
 This project was created for my exams in “web development”. An imaginary company “Game Cube” is organizing time to time game evenings. 
 
