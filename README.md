@@ -1,7 +1,7 @@
 # Game-Cube
 Planning and organizing board game evenings
 
-This project was created for my exams in “web development”. An imaginary company “Game Cube” is organizing time to time game evenings. 
+This project was created for my exams in “web development”. An imaginary company “Game Cube” is organizing from time to time game evenings. 
 
 - So first of all, they need to have one page site with a calendar of upcoming games (later it will be transformed into PHP event manager).
 
