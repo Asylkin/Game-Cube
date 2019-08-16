@@ -1,4 +1,6 @@
 <!-- Event manager -->
+<!-- For the moment it's just a pure calendar showing what day we are. Eventually, I have to transform it into
+event manager using MySQL and php.-->
 
     <div class="container col-sm-4 col-md-7 col-lg-4 mt-5">
         <div class="card">
