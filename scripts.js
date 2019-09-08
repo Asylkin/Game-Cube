@@ -50,7 +50,7 @@ function showCalendar(month, year) {
         let row = document.createElement("tr");
 
         //creating individual cells, filing them up with data.
-        for (let j = 0; j < 7; j++) {
+        for (let j = 1; j < 8; j++) {
             if (i === 0 && j < firstDay) {
                 let cell = document.createElement("td");
                 let cellText = document.createTextNode("");
